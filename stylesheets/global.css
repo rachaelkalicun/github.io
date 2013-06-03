@@ -230,11 +230,12 @@ p {
   padding: 0 2px;
 }
 
-.newsletter-signup fieldset input[type="text"], .newsletter-signup fieldset input[type="submit"] {
+.newsletter-signup fieldset input[type="submit"] {
   width: 100%;
 }
 
 .newsletter-signup fieldset input[type="text"] {
+  width: 94%;
   border: 1px solid #cccccc;
   -webkit-border-radius: 7px;
   -moz-border-radius: 7px;
@@ -242,7 +243,7 @@ p {
   -o-border-radius: 7px;
   border-radius: 7px;
   font-size: 1em;
-  padding: 8px 0;
+  padding: 8px;
 }
 
 .newsletter-signup fieldset input[type="submit"] {
